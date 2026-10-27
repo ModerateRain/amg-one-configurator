@@ -41,3 +41,7 @@
 旧版 Poly Haven Studio Small 03（Greg Zaal）和 Studio Small 09（Sergej Majboroda）HDR 文件在当前场景中不启用，也不包含在本次源码发布中。其资源采用 [CC0](https://polyhaven.com/license)。
 
 项目原创代码的 MIT 许可证不覆盖第三方资产的独立许可或商标权。
+
+## 项目演示
+
+README 中的演示视频与两张界面截图由项目维护者提供，用于展示配置器功能。视频以 GitHub 原生附件提供，保留完整剪辑与音频。画面中的汽车模型继续遵循上方的 CC BY 4.0 署名要求。

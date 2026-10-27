@@ -2,7 +2,17 @@
 
 一个运行在浏览器里的 3D 汽车配置器。用于展示实时材质、环境光照、模型交互和参数化外观，不含收费或支付功能。
 
-![配置器界面](docs/screenshot.png)
+## 演示视频
+
+https://github.com/user-attachments/assets/fd2b9b63-2cd7-4234-8ce7-9a783394cdc3
+
+点击播放，查看约一分钟的完整操作演示（含音频）。
+
+## 界面截图
+
+| 碳纤维外观 | 电光蓝车漆 |
+| :---: | :---: |
+| ![碳纤维车身与实时地面倒影](docs/carbon-fiber.png) | ![电光蓝车漆与实时地面倒影](docs/electric-blue.png) |
 
 ## 功能
 
