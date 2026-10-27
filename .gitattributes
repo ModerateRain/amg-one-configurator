@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.glb binary
+*.avif binary
+*.hdr binary
+*.ttf binary
+*.webp binary
+*.png binary
+# Preserve upstream font-license formatting.
+public/fonts/*-OFL.txt -whitespace
